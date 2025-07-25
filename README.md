@@ -15,13 +15,16 @@
 ![Slide2](https://github.com/user-attachments/assets/9c450926-52c7-49f2-b4d1-cd98d1b17ab7)
 ![Slide1](https://github.com/user-attachments/assets/f1dc6e42-0f98-4c7a-9fc1-449dcc670d37)
 
-- 👋 Hi, I’m @Gpriyanka31
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m **@Gpriyanka31**
+👀 I’m interested in **Data Analysis and Business Intelligence**
+🌱 I’m currently learning **MySQL, Python, and Power BI to strengthen my analytical skills**
+💞️ I’m looking to collaborate on **data-driven projects, dashboards, or beginner-friendly open source data analysis tasks**
+📫 How to reach me: **contactpriyankagupta31@gmail.com**
+or connect with me on LinkedIn : **https://www.linkedin.com/in/priyanka-gupta-50988199/**
+😄 Pronouns: **She/Her**
+⚡ Fun fact: **I transitioned from automotive engineering to data analytics because I love turning raw data into real insights!**
+
+---
 
 <!---
 Gpriyanka31/Gpriyanka31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
